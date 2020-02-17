@@ -1,0 +1,72 @@
+/* body styling */
+body{
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+}
+
+/* Intr0 */
+.intro{
+    margin-top: 10px;;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.head{
+    margin-left: 50px;
+    color: red;
+    font-weight: 900;
+}
+
+.login{
+    color: blue;
+    font: bold;
+}
+
+/* Nav bar */
+.nav-container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    color: white;
+}
+
+.nav-item{
+    margin: 10px;
+}
+
+.nav-item a{
+    color: white;
+    font-size: 15px;
+}
+
+.link:hover{
+    color: black;
+}
+
+/* search form */
+.search{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+#label{
+    margin: 10px;
+
+}
+
+/* footer */
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(73, 63, 63, 0.788);
+    color: white;
+}
+
+.copyright{
+    margin: 15px;
+}
