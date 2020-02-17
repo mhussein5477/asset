@@ -18,7 +18,7 @@
             <a class="link" href="index.php">HOME<a>
         </div>
         <div class="nav-item">
-            <a class="link" href="datacapture.php">DATA CAPTURE<a>
+            <a class="link" href="datacapture.php">DEPLOYMENT<a>
         </div>
         <div class="nav-item">
             <a class="link" href="#">DATA APPROVAL</a>
